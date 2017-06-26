@@ -1,0 +1,191 @@
+* { 
+	margin: 0;
+    padding: 0;
+}
+body {
+	font-family: sans-serif;
+	background: #d1d1d1;
+}
+p {
+	margin: 20px 0;
+	line-height: 160%;
+	
+
+}
+
+.wrap {
+      width: 760px;
+      height: 1580px;
+      margin: 40px auto;
+      background: #fff ;
+      min-height: 100px;
+}
+.header{
+	width: 100%;
+}
+
+
+
+.main {
+	margin: 50px;
+}
+ .h {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500; 
+}
+
+.block2 {
+  width: 46%;
+  height: 380px;
+  background: transparent;
+  float: left;
+  margin: 2%;
+}
+.block2 img{
+ width: 100%;
+}
+
+.block2 p{
+ margin: 20px;
+ height: 50px;
+ overflow: hidden;
+}
+.block2 span {
+background: red;
+display: block;
+text-align: center;
+padding: 12px; 
+border-radius: 10px;
+font-weight: bold;
+color: #fff;
+}
+.block2 img{
+ width: 100%
+}
+
+.block2 p{
+ margin: 20px;
+ height: 50px;
+ overflow: hidden;
+}
+.block2 span {
+background: red;
+display: block;
+text-align: center;
+padding: 12px; 
+border-radius: 10px;
+font-weight: bold;
+color: #fff;
+}
+.clearfix {
+	clear: both;
+}
+.block3 {
+  width: 29%;
+  height: 400px;
+  background: transparent;
+  float: left;
+  margin: 2%;
+}
+.block3 img{
+ width: 100%;
+}
+.block3 p{
+ margin: 10px;
+ height: 70px;
+ overflow: hidden;
+}
+.block3 span {
+background: red;
+display: block;
+text-align: center;
+padding: 12px; 
+border-radius: 10px;
+font-weight: bold;
+color: #fff;
+}
+.block3 {
+  width: 29%;
+  height: 400px;
+  background: transparent;
+  float: left;
+  margin: 2%;
+}
+.block3 img{
+ width: 100%;
+}
+
+.block3 p{
+ margin: 10px;
+ height: 70px;
+ overflow: hidden;
+}
+.block3 span {
+background: red;
+display: block;
+text-align: center;
+padding: 12px; 
+border-radius: 10px;
+font-weight: bold;
+color: #fff;
+}
+.block3 {
+  width: 29%;
+  height: 400px;
+  background: transparent;
+  float: left;
+  margin: 2%;
+}
+.block3 img{
+ width: 100%;
+}
+
+.block3 p{
+ margin: 10px;
+ height: 70px;
+ overflow: hidden;
+}
+.block3 span {
+background: red;
+display: block;
+text-align: center;
+padding: 12px; 
+border-radius: 10px;
+font-weight: bold;
+color: #fff;
+}
+
+.clearfix {
+	clear: both;
+}
+.red_bottom{
+background: red;
+display: block;
+text-align: center;
+padding: 12px; 
+border-radius: 10px;
+font-weight: bold;
+color: #fff;
+margin-top: 40px;
+}
+.text {
+	margin-left: 20px;
+
+}
+.ref {
+	color: blue;
+	font-weight: 600;
+	text-decoration: underline;
+}
+.footer {
+	text-align: center;
+	color: white;
+	font-size: 12px;
+	}
+
+.ref2 {
+	text-decoration: underline;
+	line-height: 0.1;
+	margin-bottom: 30px;
+}
